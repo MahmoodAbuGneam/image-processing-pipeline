@@ -66,9 +66,14 @@ You can install the required libraries using pip:
 pip install opencv-python-headless numpy matplotlib
 ```
 
-## Author
+## Contact
 
-Mahmood Abu Gneam
+For any inquiries, please contact:
+
+- **Name:** Mahmood Gneam
+- **Email:** mahmoodpsgn@example.com
+- **LinkedIn:** [MahmoodGneam](https://www.linkedin.com/in/mahmoodgneam/)
+
 
 ## License
 
